@@ -1,18 +1,18 @@
 # Support Infomation
-
+# Sun OF Dragon City
 
 
 If you have any questions, please contact us at the email address below and we will answer you as soon as possible.
 
-Support email ：WarDrumLegendTik@yeah.net
+Support email ：SunOFDragonCity@yeah.net
 
 
 
 ## About
 
-**War Drum Legend Tik** 
+**Sun OF Dragon City** 
 
-War Drum Legend Tik Start here and try this simple game.
+Sun OF Dragon City Start here and try this simple game.
 
 Gameplay: Find the same characters and click on them to complete a elimination. Eliminate all the same characters in the game and pass the level.
 
